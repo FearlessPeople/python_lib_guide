@@ -58,7 +58,7 @@
 - Django ORM
 - peewee
 - PonyORM
-- pymysql
+- [pymysql](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/pymysql/)
 - SQLObject
 
 ## 网络
