@@ -57,8 +57,8 @@
 - Records
 - Django ORM
 - peewee
-- PonyORM
-- [pymysql](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/pymysql/)
+- [pymongo](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/pymongo/) MongoDB数据库
+- [pymysql](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/pymysql/) MySQL数据库
 - SQLObject
 
 ## 网络
