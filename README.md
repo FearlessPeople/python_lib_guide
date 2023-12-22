@@ -58,6 +58,7 @@
 - Django ORM
 - peewee
 - PonyORM
+- pymysql
 - SQLObject
 
 ## 网络
