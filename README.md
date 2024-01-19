@@ -1,3 +1,5 @@
+![python_lib_guide](https://socialify.git.ci/FearlessPeople/python_lib_guide/image?description=1&forks=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+
 <h1 align="center">Python常用库使用指南</h1>
 
 <div align="center">
