@@ -15,7 +15,7 @@
 </div>
 
 ## 网络请求
-- **requests** - 用于发送 HTTP 请求的库，提供了简单而友好的 API，广泛用于网络请求。 [官网](https://docs.python-requests.org/en/latest/)
+- **[requests](https://github.com/FearlessPeople/python_lib_guide/tree/main/%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/requests)** 用于发送HTTP请求的库，提供了简单而友好的API，广泛用于网络请求。
 - **aiohttp** - 基于异步的 HTTP 客户端/服务器框架，用于构建异步 Web 应用。 [官网](https://docs.aiohttp.org/)
 - **httpx** - 现代的异步 HTTP 客户端，支持异步和同步请求。 [官网](https://www.python-httpx.org/)
 - **httpie** - 命令行 HTTP 客户端，提供直观的命令行界面用于测试和调试 HTTP 请求。 [官网](https://httpie.io/)
