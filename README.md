@@ -19,8 +19,8 @@
 - **[requests](https://github.com/FearlessPeople/python_lib_guide/tree/main/%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/requests)** - 用于发送HTTP请求的库，提供了简单而友好的API，广泛用于网络请求。
 - **[aiohttp](https://github.com/FearlessPeople/python_lib_guide/tree/main/%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/aiohttp)** - 基于`异步`的HTTP客户端/服务器框架，用于构建异步Web应用。 [官网](https://docs.aiohttp.org/)
 - **[httpx](https://github.com/FearlessPeople/python_lib_guide/tree/main/%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/httpx)** - 现代的异步 HTTP 客户端，支持异步和同步请求。 [官网](https://www.python-httpx.org/)
-- **httpie** - 用户友好的命令行HTTP CLI客户端，支持JSON、颜色、会话、下载、插件等 [官网](https://httpie.io/)
-- **httplib2** - 提供了一个完整的 HTTP 客户端实现，支持缓存和持久连接。 [官网](https://httplib2.readthedocs.io/)
+- **[httpie](https://github.com/FearlessPeople/python_lib_guide/tree/main/%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/httpie)** - 用户友好的命令行HTTP CLI客户端，支持JSON、颜色、会话、下载、插件等 [官网](https://httpie.io/)
+- **[httplib2](https://github.com/FearlessPeople/python_lib_guide/tree/main/%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/httplib2)** - 提供了一个完整的 HTTP 客户端实现，支持缓存和持久连接。 [官网](https://httplib2.readthedocs.io/)
 
 ## Web框架
 
