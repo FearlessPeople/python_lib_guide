@@ -15,15 +15,16 @@
 </div>
 
 ## 网络请求
-- **[requests](https://github.com/FearlessPeople/python_lib_guide/tree/main/%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/requests)** 用于发送HTTP请求的库，提供了简单而友好的API，广泛用于网络请求。
-- **aiohttp** - 基于异步的 HTTP 客户端/服务器框架，用于构建异步 Web 应用。 [官网](https://docs.aiohttp.org/)
+
+- **[requests](https://github.com/FearlessPeople/python_lib_guide/tree/main/%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/requests)** - 用于发送HTTP请求的库，提供了简单而友好的API，广泛用于网络请求。
+- **[aiohttp](https://github.com/FearlessPeople/python_lib_guide/tree/main/%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/aiohttp)** - 基于异步的 HTTP 客户端/服务器框架，用于构建异步 Web 应用。 [官网](https://docs.aiohttp.org/)
 - **httpx** - 现代的异步 HTTP 客户端，支持异步和同步请求。 [官网](https://www.python-httpx.org/)
 - **httpie** - 命令行 HTTP 客户端，提供直观的命令行界面用于测试和调试 HTTP 请求。 [官网](https://httpie.io/)
 - **httplib2** - 提供了一个完整的 HTTP 客户端实现，支持缓存和持久连接。 [官网](https://httplib2.readthedocs.io/)
 - **Requests-HTML** - 基于 requests 的 HTML 解析库，方便从 HTML 中提取数据。 [官网](https://requests-html.kennethreitz.org/)
 
-
 ## Web 应用 & 框架
+
 - Context
 - 框架
 - Web 服务端
@@ -33,13 +34,16 @@
 - 模板
 
 ## HTML抓取
+
 - Web抓取
 - lxml和Requests
 
 ## 命令行应用
+
 - Click
 
 ## GUI应用
+
 - Camelot
 - Cocoa
 - GTk
@@ -56,21 +60,23 @@
 - wxPython
 
 ## 数据库
+
 - **[SQLAlchemy](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/SQLAlchemy/)** - 提供了 SQL 工具包和对象关系映射（ORM）工具，支持多种数据库，包括 PostgreSQL、MySQL、SQLite 等。
 - **[Peewee](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/Peewee/)** - 简单轻量级的对象关系映射（ORM）库，支持 SQLite、MySQL、PostgreSQL。
 - **[SQLObject](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/SQLObject/)** - 一个轻量级的 ORM 框架，支持多种数据库后端。
-- **[duckdb](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/duckdb/)** 一个高性能的分析型数据库
-- **[sqlite3](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/sqlite3/)** SQLite3数据库
-- **[pymongo](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/pymongo/)** MongoDB数据库
-- **[pymysql](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/pymysql/)** MySQL数据库
-
+- **[duckdb](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/duckdb/)** - 一个高性能的分析型数据库
+- **[sqlite3](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/sqlite3/)** - SQLite3数据库
+- **[pymongo](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/pymongo/)** - MongoDB数据库
+- **[pymysql](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/pymysql/)** - MySQL数据库
 
 ## 网络
+
 - Twisted
 - PyZMQ
 - gevent
 
 ## 系统管理
+
 - Fabric
 - Salt
 - Psutil
@@ -81,21 +87,24 @@
 - Buildout
 - Shinken
 
-
 ## 数据序列化
+
 - 序列化文本
 - 二进制
 - Protobuf
 
 ## XML解析
+
 - untangle
 - xmltodict
 
 ## JSON
+
 - 解析JSON
 - simplejson
 
 ## 密码学
+
 - cryptography
 - GPGME bindings
 - PyCrypto
