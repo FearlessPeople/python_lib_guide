@@ -1,4 +1,4 @@
-# DuckDB 项目指南
+# DuckDB
 
 ## 介绍
 [DuckDB](https://github.com/duckdb/duckdb) 是一个高性能的分析型数据库管理系统，它被设计用于支持大规模数据分析。DuckDB 提供了快速的查询性能和低延迟，同时具备嵌入式和分布式部署的能力。具有以下特点：
