@@ -51,15 +51,18 @@
 - wxPython
 
 ## 数据库
-- DB-API
-- SQLAlchemy
-- Records
-- Django ORM
-- [duckdb](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/duckdb/) 一个高性能的分析型数据库
-- [sqlite3](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/sqlite3/) SQLite3数据库
-- [pymongo](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/pymongo/) MongoDB数据库
-- [pymysql](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/pymysql/) MySQL数据库
-- SQLObject
+- **[duckdb](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/duckdb/)** 一个高性能的分析型数据库
+- **[sqlite3](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/sqlite3/)** SQLite3数据库
+- **[pymongo](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/pymongo/)** MongoDB数据库
+- **[pymysql](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/pymysql/)** MySQL数据库
+- **[SQLAlchemy](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/SQLAlchemy/)** - 提供了 SQL 工具包和对象关系映射（ORM）工具，支持多种数据库，包括 PostgreSQL、MySQL、SQLite 等。
+- **[Peewee](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/Peewee/)** - 简单轻量级的对象关系映射（ORM）库，支持 SQLite、MySQL、PostgreSQL。
+- **SQLObject** - 一个轻量级的 ORM 框架，支持多种数据库后端。 [SQLObject官网](http://sqlobject.org/)
+- **dataset** - 提供了简单的抽象层，用于在应用程序和数据库之间进行交互。 [Dataset官网](https://dataset.readthedocs.io/)
+- **TinyDB** - 一个轻量级的 JSON 文件数据库，适用于小型项目和原型。 [TinyDB官网](https://tinydb.readthedocs.io/)
+- **[Redis-Py](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/Redis-Py/)** - 用于与 Redis 数据库进行交互的 Python 客户端库。
+- **[SQLparse](https://github.com/FearlessPeople/python_lib_guide/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/SQLparse/)** - 解析 SQL 语句的库，对于处理和分析 SQL 语句很有用。
+
 
 ## 网络
 - Twisted
