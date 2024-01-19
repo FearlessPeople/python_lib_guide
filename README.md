@@ -5,7 +5,7 @@
 <div align="center">
 
 
-🚀「Python常用库使用指南」一个针对Python常用库的详细使用指南仓库！如果本项目对你有用，点个Start，方便回顾知识~ [联系我](##联系我)
+🚀「Python常用库使用指南」一个针对Python常用库的详细使用指南仓库！如果本项目对你有用，点个Start，方便回顾知识~ [联系我](#联系我)
 <p align="center">
     <a target="_blank" href="https://www.python.org/downloads/release/python-3810/"><img src="https://img.shields.io/badge/Python-3.x-blue.svg" /></a>
     <a target="_blank" href='https://github.com/FearlessPeople/python_lib_guide'><img src="https://img.shields.io/github/stars/FearlessPeople/python_lib_guide?style=social"/></a>
