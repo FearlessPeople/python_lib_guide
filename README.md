@@ -4,9 +4,8 @@
 
 <div align="center">
 
-[简介](#简介) | [特性](#特性) | [技术架构](#技术架构) | [快速开始](#快速开始) | [使用说明](#使用说明) | [免责声明](#免责声明) | [附录](#附录)
 
-🚀「Python常用库使用指南」一个针对Python常用库的详细使用指南仓库！如果本项目对你有用，点个Start，方便回顾知识~
+🚀「Python常用库使用指南」一个针对Python常用库的详细使用指南仓库！如果本项目对你有用，点个Start，方便回顾知识~ [联系我](##联系我)
 <p align="center">
     <a target="_blank" href="https://www.python.org/downloads/release/python-3810/"><img src="https://img.shields.io/badge/Python-3.x-blue.svg" /></a>
     <a target="_blank" href='https://github.com/FearlessPeople/python_lib_guide'><img src="https://img.shields.io/github/stars/FearlessPeople/python_lib_guide?style=social"/></a>
@@ -107,5 +106,9 @@
 - cryptography
 - GPGME bindings
 - PyCrypto
+
+## 联系我
+
+添加我微信：FearlessMan888    进群交流~
 
 
