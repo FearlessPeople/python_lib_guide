@@ -18,7 +18,7 @@
 
 - **[requests](https://github.com/FearlessPeople/python_lib_guide/tree/main/%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/requests)** - 用于发送HTTP请求的库，提供了简单而友好的API，广泛用于网络请求。
 - **[aiohttp](https://github.com/FearlessPeople/python_lib_guide/tree/main/%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/aiohttp)** - 基于`异步`的HTTP客户端/服务器框架，用于构建异步Web应用。 [官网](https://docs.aiohttp.org/)
-- **httpx** - 现代的异步 HTTP 客户端，支持异步和同步请求。 [官网](https://www.python-httpx.org/)
+- **[httpx](https://github.com/FearlessPeople/python_lib_guide/tree/main/%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/httpx)** - 现代的异步 HTTP 客户端，支持异步和同步请求。 [官网](https://www.python-httpx.org/)
 - **httpie** - 命令行 HTTP 客户端，提供直观的命令行界面用于测试和调试 HTTP 请求。 [官网](https://httpie.io/)
 - **httplib2** - 提供了一个完整的 HTTP 客户端实现，支持缓存和持久连接。 [官网](https://httplib2.readthedocs.io/)
 - **Requests-HTML** - 基于 requests 的 HTML 解析库，方便从 HTML 中提取数据。 [官网](https://requests-html.kennethreitz.org/)
