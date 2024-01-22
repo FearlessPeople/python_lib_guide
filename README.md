@@ -109,6 +109,9 @@
 
 ## 联系我
 
-添加我微信：FearlessMan888    进群交流~
+加作者微信：FearlessMan888，进群交流，朋友圈每天分享IT圈最新消息~
+
+<img src="https://s2.loli.net/2024/01/22/YmHei9hUw4avZtS.png" style="width:258px;height:300px;"></img>
+
 
 
